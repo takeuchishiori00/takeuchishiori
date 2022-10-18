@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#hero img{
+    width: 100%;
+}
+#about{
+    background-color: white;
+    background-image: url(image/checkerboard-cross.webp)
+}
+#about h2{
+    margin-bottom: 20px;
+}
+#today img{
+    width: 50%;
+    float: left;
+}
+#SNS img{
+    width: 5%;
+}
+footer{
+    margin-top: 50px;
+    height: 50px;
+    background-image: url(image/beige-tiles.webp)
+}
